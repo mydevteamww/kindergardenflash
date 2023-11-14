@@ -3,10 +3,10 @@
   "description": "Kids Learning App",
   "dir": "ltr",
   "display": "standalone",
-  "name": "KinderGarden FlashCards",
+  "name": "KinderGarden:FlashCards",
   "orientation": "any",
   "scope": "/",
-  "short_name": "KinderGarden FlashCards",
+  "short_name": "KinderGarden:FlashCards",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "KinderGarden FlashCards",
+      "name": "KinderGarden:FlashCards",
       "url": "",
       "description": ""
     }
